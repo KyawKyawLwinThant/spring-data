@@ -9,6 +9,7 @@
         <option value="$PROJECT_DIR$/demo-callback-template/pom.xml" />
         <option value="$PROJECT_DIR$/demo-connection-jdbc/pom.xml" />
         <option value="$PROJECT_DIR$/single-work-unit/pom.xml" />
+        <option value="$PROJECT_DIR$/interoperability/pom.xml" />
       </list>
     </option>
   </component>
