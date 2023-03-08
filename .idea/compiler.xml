@@ -9,7 +9,9 @@
         <outputRelativeToContentRoot value="true" />
         <module name="demo-callback-template" />
         <module name="demo-datasource" />
+        <module name="demo-connection-jdbc" />
         <module name="datasource-standalone" />
+        <module name="single-work-unit" />
         <module name="call-back-in-java" />
         <module name="template-design-pattern" />
       </profile>
@@ -18,7 +20,9 @@
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="demo-callback-template" options="-parameters" />
+      <module name="demo-connection-jdbc" options="-parameters" />
       <module name="demo-datasource" options="-parameters" />
+      <module name="single-work-unit" options="-parameters" />
     </option>
   </component>
 </project>

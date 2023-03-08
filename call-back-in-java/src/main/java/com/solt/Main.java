@@ -10,6 +10,7 @@ import com.solt.service.EvaluatorService;
 
 public class Main {
     public static void main(String[] args) {
+
         Evaluator evaluator=new Evaluator() {
             @Override
             public int evaluate(Pair pair) {
