@@ -10,6 +10,8 @@
         <option value="$PROJECT_DIR$/demo-connection-jdbc/pom.xml" />
         <option value="$PROJECT_DIR$/single-work-unit/pom.xml" />
         <option value="$PROJECT_DIR$/interoperability/pom.xml" />
+        <option value="$PROJECT_DIR$/one-to-one-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/one-to-many-demo/pom.xml" />
       </list>
     </option>
   </component>
