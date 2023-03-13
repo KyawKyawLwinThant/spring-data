@@ -11,14 +11,17 @@
         <module name="zoo-demo" />
         <module name="one-to-many-demo" />
         <module name="demo-datasource" />
-        <module name="demo-connection-jdbc" />
-        <module name="many-to-many" />
         <module name="datasource-standalone" />
         <module name="single-work-unit" />
         <module name="interoperability" />
+        <module name="template-design-pattern" />
+        <module name="spring-jpa-elementcollection" />
+        <module name="demo-connection-jdbc" />
+        <module name="many-to-many" />
+        <module name="inheritance-demo" />
         <module name="one-to-one-demo" />
         <module name="call-back-in-java" />
-        <module name="template-design-pattern" />
+        <module name="jpa-ex" />
       </profile>
     </annotationProcessing>
   </component>
@@ -27,11 +30,14 @@
       <module name="demo-callback-template" options="-parameters" />
       <module name="demo-connection-jdbc" options="-parameters" />
       <module name="demo-datasource" options="-parameters" />
+      <module name="inheritance-demo" options="-parameters" />
       <module name="interoperability" options="-parameters" />
+      <module name="jpa-ex" options="-parameters" />
       <module name="many-to-many" options="-parameters" />
       <module name="one-to-many-demo" options="-parameters" />
       <module name="one-to-one-demo" options="-parameters" />
       <module name="single-work-unit" options="-parameters" />
+      <module name="spring-jpa-elementcollection" options="-parameters" />
       <module name="zoo-demo" options="-parameters" />
     </option>
   </component>
